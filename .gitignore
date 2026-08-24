@@ -1,0 +1,4 @@
+# This repo tracks gamer-api + the gamification DB schema only.
+# opengym/ is its own separate git repo (a patched clone of the upstream project).
+opengym/
+node_modules/
